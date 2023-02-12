@@ -1,4 +1,5 @@
 # introduccion-a-la-algoritmica
+HTTPS: https://github.com/alejandru00/introduccion-a-la-algoritmica.git // alejandru00
 En este repositorio hay un conjunto de 5 ejercicios (8-9-10-11-12) resueltos en python.
 
 
