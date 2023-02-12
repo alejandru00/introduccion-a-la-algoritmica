@@ -6,7 +6,7 @@ En este repositorio hay un conjunto de 5 ejercicios (8-9-10-11-12) resueltos en 
 
 
 
-Los emumciados eran:
+Los enunciados eran:
 
 
 
