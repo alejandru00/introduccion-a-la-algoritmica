@@ -2,14 +2,12 @@
 En este repositorio hay un conjunto de 5 ejercicios (8-9-10-11-12) resueltos en python.
 
 
-Los emumciaos eran:
+
+Los emumciados eran:
+
 
 
 Ejercicio 8: Porcentajes, IVA e inversiones
-
-
-
-
 
 1. Escribir un algoritmo que calcula el precio con todos los impuestos incluidos (TII) para un precio sin impuestos y un porcentaje de IVA dado.
 
